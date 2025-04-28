@@ -1,0 +1,14 @@
+header {
+
+
+}
+header ul {
+  position: absolute;
+}
+header li{
+    display:inline;
+    margin-right: 4vw;
+}
+header a{
+    text-decoration: none;
+}
